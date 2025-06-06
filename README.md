@@ -20,11 +20,11 @@ This project performs **Sentiment Analysis** on Twitter data to classify tweets 
 
 ## 📈 Visuals
 
-### positive wordcloud
+### Positive wordcloud
 ![Postive Wordcloud](positive_wordcloud.png)
 
 ### Sentimental distribution
-![Sentimental Distribution](sentimental_distribution.png)
+![Sentiment Distribution](sentiment_distribution.png)
 
 ## 🧰 Tools Used
 
