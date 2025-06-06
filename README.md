@@ -24,7 +24,7 @@ This project performs **Sentiment Analysis** on Twitter data to classify tweets 
 ![Postive Wordcloud](positive_wordcloud.png)
 
 ### Sentimental distribution
-![Sentimental Distribution]([sentimental_distribution.png](sentimental_distribution.png)
+![Sentimental Distribution](sentimental_distribution.png)
 
 ## 🧰 Tools Used
 
